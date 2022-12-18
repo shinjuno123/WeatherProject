@@ -1,7 +1,7 @@
 # :cloud: Weather Checking Servie :sunny:
 
 
-## :one: Technique Stack
+## :one: Technical Stack
 
 - HTML
 - Node.js
